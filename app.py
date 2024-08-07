@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
-from yellowbrick.cluster import KElbowVisualizer
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import warnings
