@@ -7,4 +7,3 @@ plotly
 yellowbrick
 fuzzywuzzy
 requests
-distutils
