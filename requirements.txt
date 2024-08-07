@@ -4,6 +4,6 @@ seaborn
 scikit-learn
 streamlit
 plotly
-yellowbrick==1.4
+yellowbrick
 fuzzywuzzy
 requests
